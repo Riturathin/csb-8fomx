@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://riturathin.github.io/csb-8fomx/static/css/main.f16925e2.chunk.css",
+    "main.js": "https://riturathin.github.io/csb-8fomx/static/js/main.7d275091.chunk.js",
+    "main.js.map": "https://riturathin.github.io/csb-8fomx/static/js/main.7d275091.chunk.js.map",
+    "runtime-main.js": "https://riturathin.github.io/csb-8fomx/static/js/runtime-main.c51c0179.js",
+    "runtime-main.js.map": "https://riturathin.github.io/csb-8fomx/static/js/runtime-main.c51c0179.js.map",
+    "static/css/2.ed48e7f3.chunk.css": "https://riturathin.github.io/csb-8fomx/static/css/2.ed48e7f3.chunk.css",
+    "static/js/2.3fb05fa0.chunk.js": "https://riturathin.github.io/csb-8fomx/static/js/2.3fb05fa0.chunk.js",
+    "static/js/2.3fb05fa0.chunk.js.map": "https://riturathin.github.io/csb-8fomx/static/js/2.3fb05fa0.chunk.js.map",
+    "index.html": "https://riturathin.github.io/csb-8fomx/index.html",
+    "static/css/2.ed48e7f3.chunk.css.map": "https://riturathin.github.io/csb-8fomx/static/css/2.ed48e7f3.chunk.css.map",
+    "static/css/main.f16925e2.chunk.css.map": "https://riturathin.github.io/csb-8fomx/static/css/main.f16925e2.chunk.css.map",
+    "static/js/2.3fb05fa0.chunk.js.LICENSE.txt": "https://riturathin.github.io/csb-8fomx/static/js/2.3fb05fa0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c51c0179.js",
+    "static/css/2.ed48e7f3.chunk.css",
+    "static/js/2.3fb05fa0.chunk.js",
+    "static/css/main.f16925e2.chunk.css",
+    "static/js/main.7d275091.chunk.js"
+  ]
+}
